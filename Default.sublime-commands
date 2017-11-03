@@ -1,0 +1,10 @@
+[
+	{
+		"caption": "Reveal: in Finder",
+		"command": "reveal_finder"
+	},
+	{
+		"caption": "Reveal: In Sidebar",
+		"command": "reveal"
+	}
+]
